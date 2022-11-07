@@ -6,7 +6,3 @@ Possui apk gerada, podendo ser testado diretamente no android ou emulador.
 
 
 ![appNotícias](https://user-images.githubusercontent.com/112141783/200214472-fe489530-eb84-4845-8fe0-5df274519ab0.png)
-
-
-
-AppNoticias
